@@ -1,50 +1,66 @@
-# Olá! Sou Nicolas Schneider Lapolli Garcia 
+<h1 align="left">Nicolas Schneider Lapolli Garcia</h1>
 
-**AI Builder em formação | Automação de processos | Desenvolvimento de sistemas**
+<p>
+  <strong>AI Builder | Intelligent Automation | Systems Development</strong><br>
+  Estudante de Análise e Desenvolvimento de Sistemas · São José, SC, Brasil
+</p>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na Unisul** e tenho experiência prática com automação de processos, modernização de sistemas e desenvolvimento assistido por inteligência artificial. Meu foco é transformar necessidades operacionais em soluções digitais mais simples e eficientes.
+---
 
-## Tecnologias e ferramentas
+## About me
 
-- **Automação e IA:** Power Automate, n8n, Google Apps Script, Claude e Claude Code
-- **Desenvolvimento:** HTML, CSS, JavaScript, Java e SQL
-- **Ferramentas:** Git, GitHub e VS Code
-- **Vivência com sistemas corporativos:** Salesforce, IPM e Microsoft 365
+Sou estudante de **Análise e Desenvolvimento de Sistemas na Unisul**, com experiência prática em automação de processos, modernização de sistemas internos e desenvolvimento de soluções digitais com apoio de inteligência artificial.
 
-> Utilizo ferramentas de IA como apoio ao desenvolvimento e à automação. Meu objetivo é aprofundar conhecimentos técnicos e construir soluções cada vez mais completas.
+Minha atuação combina a compreensão de necessidades operacionais com ferramentas como **Power Automate, n8n, Google Apps Script e Claude**. Tenho interesse em transformar tarefas repetitivas em fluxos mais simples, organizados e eficientes.
 
-## Experiências práticas
+Na minha trajetória profissional, participei da **migração da base e modernização de um sistema de gestão existente**, reformulando sua interface e funcionamento e implementando automações com Google Apps Script. O Claude foi utilizado como ferramenta de apoio ao desenvolvimento.
 
-### Modernização de sistema de gestão
+Também participei do **NeuroPathAI**, projeto acadêmico colaborativo de aprendizagem adaptativa com IA, com contribuições em planejamento, arquitetura da solução, design e experiência do usuário, criação de prompts, configuração de modelos e documentação. O trabalho foi realizado em equipe, com acompanhamento docente, e posteriormente descontinuado.
 
-Participei da migração da base de um sistema de gestão existente, da reformulação de sua interface e funcionamento e da simplificação de processos. Desenvolvi automações para demandas administrativas utilizando **Google Apps Script** e **Claude como apoio ao desenvolvimento**.
+Atualmente, busco desenvolver minhas habilidades em **AI Building, automação inteligente, integrações e desenvolvimento de aplicações**, com foco em soluções úteis para negócios.
 
-*Experiência profissional — detalhes internos e código não publicados por questões de confidencialidade.*
+## Expertise
 
-### Automações empresariais
+- **Intelligent Automation:** automação de rotinas e fluxos de trabalho com n8n, Power Automate e Google Apps Script.
+- **AI-Assisted Development:** uso de Claude e Claude Code como apoio à construção e à evolução de aplicações.
+- **Systems & UX:** modernização de sistemas existentes, revisão de interfaces e simplificação de processos.
+- **Product Collaboration:** participação em definição de funcionalidades, planejamento de soluções e documentação técnica.
 
-Experiência com criação e manutenção de fluxos utilizando **n8n**, além de utilização de **Power Automate** em rotinas operacionais.
+## Tech Stack
 
-### NeuroPathAI — projeto acadêmico colaborativo
+**Automation & AI**
 
-Participei, em conjunto com a equipe e sob orientação docente, da idealização de uma plataforma de aprendizagem adaptativa com IA. Minhas contribuições envolveram definição de funcionalidades, planejamento da arquitetura, interface/UX, prompts, configuração de modelos e documentação.
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=flat-square&logo=anthropic&logoColor=white)
 
-*Projeto descontinuado. O repositório pertence à equipe e não é apresentado aqui como projeto individual.*
+**Development**
 
-## Projeto público
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-### [Sistema de Folha de Pagamento em Java](https://github.com/nsl-devx/sistema-folha-pagamento-java)
+**Tools & Platforms**
 
-Aplicação de console criada em contexto acadêmico, com cadastro de colaboradores, cálculo de remunerações e resumo da folha de pagamento. Utiliza **Java** e conceitos de **programação orientada a objetos** — classes, herança, polimorfismo e encapsulamento — além de validação de entradas.
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 
-## Áreas de interesse
+## Featured Project
 
-- AI Builder e soluções de IA aplicadas a negócios
-- Automação inteligente de processos
-- Integrações entre ferramentas e sistemas
-- Desenvolvimento de aplicações com apoio de IA
+### [Payroll Management System — Java](https://github.com/nsl-devx/sistema-folha-pagamento-java)
 
-## Contato
+Projeto acadêmico em Java para cadastro de colaboradores, cálculo de diferentes modalidades de remuneração e geração de resumos de folha de pagamento. Aplicação de conceitos de **programação orientada a objetos**, incluindo herança, encapsulamento e polimorfismo, com validação de entradas.
 
-- **LinkedIn:** [nicolas-schneider-lapolli-garcia](https://www.linkedin.com/in/nicolas-schneider-lapolli-garcia)
-- **GitHub:** [@nsl-devx](https://github.com/nsl-devx)
+> Algumas experiências profissionais envolvem sistemas e dados internos; por isso, seu código não está publicado. O NeuroPathAI foi um projeto em equipe e não é apresentado como desenvolvimento individual.
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-schneider-lapolli-garcia)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nsl-devx)
